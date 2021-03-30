@@ -55,7 +55,7 @@
     "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.4",
     "jimp": "^0.16.1",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^3.14.1",
     "lint-staged": "^10.0.9",
     "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.5",
