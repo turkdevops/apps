@@ -37,7 +37,7 @@
     "@octokit/rest": "^16",
     "@zeit/fetch-retry": "^5.0.0",
     "bottleneck": "^1.16.0",
-    "chai": "^4.2.0",
+    "chai": "^4.3.3",
     "check-for-leaks": "^1.2.0",
     "cheerio": "^1.0.0-rc.2",
     "clean-deep": "^2.0.1",
