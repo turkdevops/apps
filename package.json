@@ -48,7 +48,7 @@
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
     "husky": "^4.3.6",
-    "image-size": "^0.9.3",
+    "image-size": "^0.9.4",
     "imagemin": "^6.1.0",
     "imagemin-pngquant": "^8.0.0",
     "inquirer": "^2.0.0",
